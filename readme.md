@@ -4,8 +4,6 @@ DocChat is an end-to-end **Retrieval-Augmented Generation (RAG)** application th
 
 This project demonstrates practical use of **LLMs, vector databases, and backend system design** in a real-world application.
 
----
-
 ## 🔮 Features
 
 - Source citations in responses
@@ -13,7 +11,6 @@ This project demonstrates practical use of **LLMs, vector databases, and backend
 - Conversation memory
 - Document Categorization
 
----
 
 ## 🧠 RAG Workflow
 
@@ -33,7 +30,6 @@ LLM Generates Final Answer
 
 ![RAG Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20250210190608027719/How-Rag-works.webp)
 
----
 
 ## 🛠 Tech Stack & Libraries
 
@@ -54,7 +50,6 @@ LLM Generates Final Answer
 
 - **Streamlit** – interactive web interface
 
----
 
 ## ⚙️ Setup & Installation
 
@@ -78,7 +73,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
 
 ⭐ **If you find this project useful, consider giving it a star!**
