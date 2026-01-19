@@ -1,0 +1,9 @@
+anyio==4.9.0
+groq==1.0.0
+peewee==3.19.0
+pgvector==0.4.2
+pydantic==2.12.5
+pypdf==6.6.0
+python-dotenv==1.2.1
+sentence_transformers==5.2.0
+streamlit==1.52.2
